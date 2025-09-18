@@ -71,6 +71,7 @@ generate_kaleidoscope(protein_sequence, depth, (0, 0), 0, scale, 'blue')
 plt.axis('off')
 plt.show()
 ```
+![Uploading image.png…]()
 
 ### Batch Processing
 
