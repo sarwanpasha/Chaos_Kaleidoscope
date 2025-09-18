@@ -161,13 +161,10 @@ This project is open source and available under the [MIT License](LICENSE).
 If you use this visualization method in your research, please cite:
 
 ```
-Protein Sequence Kaleidoscope Visualization
-[Your Name/Institution]
-[Year]
+@article{murad2024dance,
+  title={Dance: Deep learning-assisted analysis of protein sequences using chaos enhanced kaleidoscopic images},
+  author={Murad, Taslim and Chourasia, Prakash and Ali, Sarwan and Khan, Imdad Ullah and Patterson, Murray},
+  journal={arXiv preprint arXiv:2409.06694},
+  year={2024}
+}
 ```
-
-## References
-
-- Chaos Game Representation for biological sequences
-- Fractal geometry in bioinformatics
-- Protein sequence analysis and visualization techniques
