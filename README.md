@@ -13,7 +13,7 @@ A Python tool for generating beautiful kaleidoscope-like visualizations of prote
 ## Prerequisites
 
 ```bash
-pip install numpy matplotlib scikit-learn
+pip install numpy matplotlib scikit-learn pytorch
 ```
 
 ## Required Data Files
